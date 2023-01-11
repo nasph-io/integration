@@ -23,7 +23,9 @@ case $1 in create)
     fi
     ;;
   *)
-    echo "Error: Unrecognized command. Please refer to the documentation for all functionality."
+    echo "Error: Unrecognized command. 
+    Please refer to the documentation for all functionality.
+    The right way should be ./integrator create <PROJECT_NAME>"
     exit 1
     ;;
 esac
