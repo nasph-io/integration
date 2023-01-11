@@ -17,9 +17,6 @@ case $1 in create)
       
       cd projects/$1
 
-
-
-
       echo "Enter in the following directory: 
       cd $PWD"
       code $PWD
