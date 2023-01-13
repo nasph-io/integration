@@ -391,7 +391,7 @@
 
 
             page: {
-                title: "Nasph: Spate Flow Designer",
+                title: "Nasph: Flowlet",
                 css: __dirname + "/static/custom.css",
                 
             },
